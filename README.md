@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harini</h1>
-<h2 align="center">💻 Full Stack Java Developer | 2.5 Years Experience |</h2>
+<h2 align="center">💻 Full Stack Java Developer | 2.5 Years Experience </h2>
 
 <p align="center">
 Dynamic and motivated Full Stack Developer with 2.5 years of experience in frontend development, recently expanded to full-stack expertise. Passionate about building performant web applications using modern technologies. Strong collaborator with a proven record of delivering robust and scalable software solutions.

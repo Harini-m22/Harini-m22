@@ -28,24 +28,34 @@ Dynamic and motivated Full Stack Developer with 2.5 years of experience in front
 ---
 
 ### 📌 Pinned Project
+### 📌 Online Bus Ticket Booking System
 
-#### 📌 Online Bus Ticket Booking System
-> **Stack**:SpringBoot, Thymeleaf, MySQL, Postman
-> A full-stack application that allows users to search, book, and manage bus tickets. Integrated service discovery, API Gateway, and circuit breaker patterns for resilience. Frontend includes seat selection, booking modal, and user-friendly UX. Backend includes JWT-based authentication, history management, and ticket CRUD.
+**Tech Stack**: Spring Boot · Thymeleaf · MySQL · Postman  · JWT · HTML/CSS
+
+A full-stack web application enabling users to search, book, and manage bus tickets. The system is built with microservices architecture, including service discovery, API Gateway, and circuit breaker patterns for resilience. The frontend supports seat selection, booking modal, and a user-friendly interface. The backend handles JWT-based authentication, ticket CRUD, and booking history tracking.
 
 🔗 [View Source Code](https://github.com/Harini-m22/Capstone)
 
-#### 📌 Employee Management System
-> **Stack**:SpringBoot, Thymeleaf, MySQL, Postman ,Swagger
-> The Employee Management Application is a full-stack web project built using Spring Boot, JPA, MySQL, and Thymeleaf. It enables users to perform CRUD operations on employee records with integrated validation and error handling. The application features a user-friendlyfrontend with Thymeleaf,and includes Swagger documentation for easy API reference.
+---
+
+### 📌 Employee Management System
+
+**Tech Stack**: Spring Boot · Thymeleaf · MySQL · Postman · Swagger · Spring Data JPA · HTML/CSS
+
+A full-stack employee management application built using Spring Boot and Thymeleaf. It provides CRUD operations on employee data with validation and error handling. The system features a clean UI, server-side rendering, and Swagger integration for interactive API documentation. Ideal for internal HR management systems or admin dashboards.
 
 🔗 [View Source Code](https://github.com/Harini-m22/MiniProject-1)
 
-#### 📌 Patient Management System
-> **Stack**: SpringBoot, Thymeleaf, MySQL, Postman  
-> The Patient Medicine and Appointment System is a full-stack healthcare application built using Spring Boot, Thymeleaf, and MySQL. It allows patients to register, manage profiles, book appointments, and view prescribed medications. The system ensures data validation, userauthentication,and seamless interaction through aresponsive UIand RESTful APIs.
+---
+
+### 📌 Patient Medicine and Appointment System
+
+**Tech Stack**: Spring Boot · Thymeleaf · MySQL · Postman · Spring MVC · REST API · HTML/CSS
+
+A full-stack healthcare management system allowing patients to register, book appointments, and view prescriptions. Built using Spring Boot and Thymeleaf, it ensures seamless interactions, secure data flow, and efficient CRUD operations. The UI is responsive and built to enhance the patient-doctor interaction flow with RESTful API support.
 
 🔗 [View Source Code](https://github.com/Harini-m22/Miniproject-2)
+
 
 ---
 

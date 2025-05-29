@@ -81,3 +81,5 @@ Angular • HTML • CSS • JavaScript • Java • Spring Boot • Microservic
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harini-m22&layout=compact&theme=dracula)
+
+![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harini-m22&show_icons=true&theme=dracula)
